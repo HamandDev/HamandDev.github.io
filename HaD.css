@@ -128,8 +128,7 @@ h2{
 	font-weight: 700;
 }
 
-.displayed{
-	display:block;
-	margin-left:auto;
-	margin-right: auto;
+.displayed {
+	display:flex;
+	align-items: right;
 }
